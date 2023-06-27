@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tokenrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tokenrr" height="30" width="40" /></a>
-<a href="discordapp.com/users/598035890719162398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="token___" height="35" width="35" /></a>
+<a href="https://discordapp.com/users/598035890719162398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="token___" height="35" width="35" /></a>
 <a href="https://t.me/TokenRR" target="blank"><img align="center" src="https://github.com/TokenRR/TokenRR/blob/main/telegram.svg" alt="TokenRR" height="35" width="35" /></a>
 </p>
 
