@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Romanetskiy Nick</h1>
+<h1 align="center">Nick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokenrr&label=Profile%20views&color=0e75b6&style=flat" alt="tokenrr" /> </p>
+
+[![Holopin Board](https://holopin.me/tokenrr)](https://holopin.io/@tokenrr)
 
 - 📚 I’m currently learning: **ML, Database and Math**
 
